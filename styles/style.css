@@ -91,7 +91,7 @@ button {
   cursor: pointer;
   background: none;
   border: none;
-  padding: 0;  
+  padding: 0;
   text-transform: uppercase;
 }
 
@@ -264,7 +264,7 @@ button:focus-visible {
   align-items: flex-start;
   gap: 5px;
   margin-bottom: 22px;
-  margin-right: 25px; 
+  margin-right: 25px;
 }
 
 .card__like-button {
@@ -288,7 +288,7 @@ button:focus-visible {
   align-items: center;
   height: 38px;
   margin-bottom: 5px;
-  transition: border 0.3s ease; 
+  transition: border 0.3s ease;
 }
 
 .like-icon .heart {
@@ -317,7 +317,7 @@ button:focus-visible {
 
 .like-icon:hover .main-body {
   fill: var(--text-color);
-  transition: fill 0.3s 0.05s linear; 
+  transition: fill 0.3s 0.05s linear;
 }
 
 .like-icon:hover .core {
@@ -441,7 +441,7 @@ button:focus-visible {
     padding: 30px 40px;
   }
 
-  .dialog__text-container{
+  .dialog__text-container {
     gap: 18px;
   }
 
