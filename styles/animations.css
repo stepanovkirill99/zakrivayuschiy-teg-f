@@ -14,7 +14,7 @@
 */
 
 .theme-menu__button:disabled::before {
-    animation: arrow 0.3s ease-in-out infinite alternate;
+  animation: arrow 0.6s ease-in-out infinite alternate;
 }
 
 .like-icon.is-liked .heart {
