@@ -256,6 +256,7 @@ button:focus-visible {
   padding: 25px;
   gap: 27px;
   font-size: 18px;
+  line-height: 21px;
 }
 
 .card-like-container {
